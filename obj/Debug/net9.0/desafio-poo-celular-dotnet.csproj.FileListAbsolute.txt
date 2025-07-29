@@ -1,0 +1,15 @@
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/bin/Debug/net9.0/desafio-poo-celular-dotnet
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/bin/Debug/net9.0/desafio-poo-celular-dotnet.deps.json
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/bin/Debug/net9.0/desafio-poo-celular-dotnet.runtimeconfig.json
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/bin/Debug/net9.0/desafio-poo-celular-dotnet.dll
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/bin/Debug/net9.0/desafio-poo-celular-dotnet.pdb
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/obj/Debug/net9.0/desafio-poo-celular-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/obj/Debug/net9.0/desafio-poo-celular-dotnet.AssemblyInfoInputs.cache
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/obj/Debug/net9.0/desafio-poo-celular-dotnet.AssemblyInfo.cs
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/obj/Debug/net9.0/desafio-poo-celular-dotnet.csproj.CoreCompileInputs.cache
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/obj/Debug/net9.0/desafio-poo-celular-dotnet.sourcelink.json
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/obj/Debug/net9.0/desafio-poo-celular-dotnet.dll
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/obj/Debug/net9.0/refint/desafio-poo-celular-dotnet.dll
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/obj/Debug/net9.0/desafio-poo-celular-dotnet.pdb
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/obj/Debug/net9.0/desafio-poo-celular-dotnet.genruntimeconfig.cache
+/Users/giselefonseca/Documents/DesafioPOOCelular/desafio-poo-celular-dotnet/obj/Debug/net9.0/ref/desafio-poo-celular-dotnet.dll
